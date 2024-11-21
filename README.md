@@ -180,5 +180,5 @@ npm run migrate:up
 
 Igwe Abraham Chinonso - igwechinonso77@gmail.com
 
-Frontend Project Link: [https://github.com/yourusername/tweet-app](https://github.com/yourusername/tweet-app)
-Backend Project Link: [https://github.com/yourusername/tweet-app](https://github.com/yourusername/tweet-app)
+Frontend Project Link: [https://github.com/chiboycalix/twitter-clone-frontend](https://github.com/chiboycalix/twitter-clone-frontend)
+Backend Project Link: [https://github.com/chiboycalix/twitter-clone-backend](https://github.com/chiboycalix/twitter-clone-backend)
